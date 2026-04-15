@@ -64,7 +64,7 @@ export default function Home() {
                 <img src="/profile-header.jpg" alt="Montassar Toumi" className="w-full h-full object-cover" />
               </div>
               <div className="text-sm sm:text-lg font-bold bg-gradient-to-r from-indigo-600 via-blue-600 to-cyan-600 bg-clip-text text-transparent hover:scale-105 transition-transform cursor-pointer">
-                M. Toumi
+                Montassar Toumi
               </div>
             </div>
             
